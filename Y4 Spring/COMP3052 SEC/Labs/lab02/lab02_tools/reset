@@ -1,0 +1,6 @@
+if [ -f ../.hashcat/hashcat.potfile ]
+then
+	rm ../.hashcat/hashcat.potfile
+fi
+
+cp ./hashes/hashdb.bak ./hashes/hashdb

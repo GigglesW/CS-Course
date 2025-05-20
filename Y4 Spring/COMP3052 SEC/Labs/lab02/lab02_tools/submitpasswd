@@ -1,0 +1,4 @@
+echo -n "Enter password: "
+read -s pw
+echo
+echo -n $pw | openssl md5 | sed 's/(stdin)= //' >> hashes/hashdb

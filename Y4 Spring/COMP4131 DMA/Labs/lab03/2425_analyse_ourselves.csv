@@ -1,0 +1,69 @@
+Id,Start time,Completion time,I love,Age Band,Loving Marmite,DSML motivation,Optimistic about future,Favourite movie,Feeling today,Way to relax,Hours of sleep,Number of sweets,Completion duration,Standardised hours of sleep
+1,2/24/2025 13:48,2/24/2025 13:49,Dog,18 to 24,Don't know what it is,Just curious,Strongly Agree,Star Wars (1977),Happy,Long walk,8,9,63,0.8002000580899707
+2,2/24/2025 13:48,2/24/2025 13:50,Dog,18 to 24,Yes,Improve job opportunities,Strongly Agree,"Hi, Mom",Sad,Long walk,8,10,75,0.8002000580899707
+3,2/24/2025 13:48,2/24/2025 13:50,Cat,25 to 30,Don't know what it is,Relevant to my research,Neutral,Star Wars (1977),Tired,Reading a book,7,101,82,-0.382704376
+4,2/24/2025 13:48,2/24/2025 13:50,Dog,18 to 24,Yes,Increase knowledge of subject area,Strongly Agree,Enter the Dragon,Happy,Long walk,9,0,80,1.983104491788188
+6,2/24/2025 13:48,2/24/2025 13:50,Dog,18 to 24,Yes,Improve job opportunities,Agree,Toy Story,Happy,Long walk,7,5,88,-0.382704376
+7,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,Don't know what it is,Improve job opportunities,Strongly Agree,None of the above,Happy,Bath and Bed,8,0,82,0.8002000580899707
+8,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,No,Relevant to my research,Agree,None of the above,Happy,Gaming,6,50,85,-1.565608809
+9,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,Don't know what it is,Improve job opportunities,Agree,Toy Story,Tired,Cooking,9,100,97,1.983104491788188
+10,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,No,Increase knowledge of subject area,Strongly Agree,Star Wars (1977),Happy,Bath and Bed,8,120,97,0.8002000580899707
+11,2/24/2025 13:48,2/24/2025 13:50,Neither,18 to 24,Don't know what it is,Improve job opportunities,Neutral,The Shawshank Redemption,Happy,Gym workout,8,300,100,0.8002000580899707
+12,2/24/2025 13:48,2/24/2025 13:50,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,Toy Story,Happy,Long walk,7,100,96,-0.382704376
+13,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,Never tried it,Increase knowledge of subject area,Strongly Agree,None of the above,Happy,Gym workout,7,200,101,-0.382704376
+14,2/24/2025 13:49,2/24/2025 13:50,Cat,18 to 24,Never tried it,Increase knowledge of subject area,Strongly Agree,The Shawshank Redemption,Happy,Gaming,7,10,68,-0.382704376
+15,2/24/2025 13:48,2/24/2025 13:50,Both,25 to 30,Don't know what it is,Improve job opportunities,Strongly Agree,None of the above,Happy,Gym workout,8,5,99,0.8002000580899707
+16,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,Yes,Increase knowledge of subject area,Strongly Agree,Toy Story,Happy,Bath and Bed,7,9,104,-0.382704376
+17,2/24/2025 13:48,2/24/2025 13:50,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Strongly Agree,None of the above,Tired,Bath and Bed,8,150,101,0.8002000580899707
+18,2/24/2025 13:48,2/24/2025 13:50,Both,18 to 24,Don't know what it is,Relevant to my research,Agree,None of the above,Happy,Gaming,9,80,118,1.983104491788188
+19,2/24/2025 13:48,2/24/2025 13:50,Both,25 to 30,No,Improve job opportunities,Strongly Disagree,Star Wars (1977),Tired,Night in with Netflix,7,50,112,-0.382704376
+20,2/24/2025 13:48,2/24/2025 13:50,Both,25 to 30,Don't know what it is,Increase knowledge of subject area,Agree,Toy Story,Happy,Bath and Bed,8,8,119,0.8002000580899707
+21,2/24/2025 13:48,2/24/2025 13:50,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Strongly Agree,Star Wars (1977),Happy,Long walk,7,5,130,-0.382704376
+22,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Relevant to my research,Strongly Agree,Star Wars (1977),Tired,Gaming,7,100,132,-0.382704376
+23,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Tired,Gaming,6,7,136,-1.565608809
+24,2/24/2025 13:49,2/24/2025 13:51,Cat,18 to 24,Yes,Increase knowledge of subject area,Strongly Agree,None of the above,Happy,Gaming,7,10,128,-0.382704376
+25,2/24/2025 13:48,2/24/2025 13:51,Dog,25 to 30,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Happy,Bath and Bed,8,120,136,0.8002000580899707
+26,2/24/2025 13:48,2/24/2025 13:51,Both,25 to 30,Never tried it,Relevant to my research,Agree,None of the above,Happy,Gaming,9,6,152,1.983104491788188
+27,2/24/2025 13:48,2/24/2025 13:51,Cat,18 to 24,Don't know what it is,Improve job opportunities,Neutral,None of the above,Anxious,Gym workout,7,100,154,-0.382704376
+28,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Improve job opportunities,Neutral,None of the above,Happy,Gym workout,7,120,154,-0.382704376
+29,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Strongly Agree,Enter the Dragon,Happy,Gaming,7,7,163,-0.382704376
+30,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Strongly Agree,Enter the Dragon,Happy,Gaming,7,7,166,-0.382704376
+31,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Agree,Star Wars (1977),Happy,Gaming,9,20,170,1.983104491788188
+32,2/24/2025 13:49,2/24/2025 13:51,Cat,25 to 30,Don't know what it is,Increase knowledge of subject area,Agree,None of the above,Tired,Gaming,9,6,150,1.983104491788188
+33,2/24/2025 13:49,2/24/2025 13:51,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,The Shawshank Redemption,Happy,Bath and Bed,6,1,153,-1.565608809
+34,2/24/2025 13:48,2/24/2025 13:51,Cat,25 to 30,Don't know what it is,Relevant to my research,Neutral,None of the above,Tired,Bath and Bed,6,80,167,-1.565608809
+35,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Strongly Agree,Star Wars (1977),Happy,Long walk,7,5,170,-0.382704376
+36,2/24/2025 13:48,2/24/2025 13:51,Neither,18 to 24,No,Increase knowledge of subject area,Strongly Agree,None of the above,Happy,Gaming,8,4,168,0.8002000580899707
+37,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Agree,Toy Story,Tired,Long walk,7,7,166,-0.382704376
+38,2/24/2025 13:49,2/24/2025 13:51,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Agree,Toy Story,Happy,Gaming,7,5,155,-0.382704376
+39,2/24/2025 13:49,2/24/2025 13:51,Cat,18 to 24,Don't know what it is,Relevant to my research,Disagree,Toy Story,Tired,Gaming,6.5,5,162,-0.974156592
+40,2/24/2025 13:49,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Agree,Toy Story,Tired,Long walk,7,7,162,-0.382704376
+42,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,No,Increase knowledge of subject area,Agree,Toy Story,Happy,Bath and Bed,7.5,98,181,0.20874784124086215
+43,2/24/2025 13:48,2/24/2025 13:51,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,The Shawshank Redemption,Happy,Gym workout,7,150,179,-0.382704376
+44,2/24/2025 13:48,2/24/2025 13:51,Cat,18 to 24,Never tried it,Increase knowledge of subject area,Strongly Agree,None of the above,Tired,Gaming,6,6,190,-1.565608809
+45,2/24/2025 13:48,2/24/2025 13:51,Both,18 to 24,Don't know what it is,Relevant to my research,Agree,Pulp Fiction,Tired,Gaming,6,108,188,-1.565608809
+46,2/24/2025 13:51,2/24/2025 13:51,Cat,18 to 24,Yes,Increase knowledge of subject area,Agree,Toy Story,Happy,Gaming,8,100,45,0.8002000580899707
+47,2/24/2025 13:48,2/24/2025 13:51,Cat,18 to 24,Never tried it,Increase knowledge of subject area,Strongly Agree,None of the above,Confused,Gaming,7,28,187,-0.382704376
+48,2/24/2025 13:48,2/24/2025 13:51,Cat,18 to 24,Don't know what it is,Relevant to my research,Disagree,None of the above,Happy,Night in with Netflix,8.5,7,186,1.3916522749390794
+49,2/24/2025 13:48,2/24/2025 13:51,Both,25 to 30,Don't know what it is,Relevant to my research,Agree,None of the above,Happy,Night in with Netflix,7,10,180,-0.382704376
+50,2/24/2025 13:48,2/24/2025 13:52,Dog,18 to 24,Don't know what it is,Increase knowledge of subject area,Agree,None of the above,Happy,Bath and Bed,7,10,185,-0.382704376
+51,2/24/2025 13:49,2/24/2025 13:52,Cat,18 to 24,Don't know what it is,Improve job opportunities,Agree,Toy Story,Happy,Bath and Bed,8,100,130,0.8002000580899707
+52,2/24/2025 13:48,2/24/2025 13:52,Dog,25 to 30,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Tired,Reading a book,7,120,206,-0.382704376
+53,2/24/2025 13:50,2/24/2025 13:52,Cat,18 to 24,Don't know what it is,Improve job opportunities,Agree,Toy Story,Happy,Bath and Bed,8,100,129,0.8002000580899707
+54,2/24/2025 13:48,2/24/2025 13:52,Neither,18 to 24,Don't know what it is,Improve job opportunities,Neutral,The Shawshank Redemption,Happy,Gaming,7,100,199,-0.382704376
+55,2/24/2025 13:48,2/24/2025 13:52,Both,18 to 24,Don't know what it is,Improve job opportunities,Neutral,None of the above,Tired,Gaming,8,6,199,0.8002000580899707
+56,2/24/2025 13:48,2/24/2025 13:52,Both,25 to 30,Don't know what it is,Relevant to my research,Neutral,Star Wars (1977),Happy,Gaming,6,6,204,-1.565608809
+57,2/24/2025 13:48,2/24/2025 13:52,Neither,18 to 24,Don't know what it is,Improve job opportunities,Disagree,None of the above,Tired,Gaming,6,80,202,-1.565608809
+58,2/24/2025 13:48,2/24/2025 13:52,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Agree,Star Wars (1977),Happy,Bath and Bed,7,6,222,-0.382704376
+59,2/24/2025 13:48,2/24/2025 13:52,Cat,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Tired,Gaming,7,80,219,-0.382704376
+60,2/24/2025 13:48,2/24/2025 13:52,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,The Shawshank Redemption,Tired,Gaming,7,110,213,-0.382704376
+61,2/24/2025 13:48,2/24/2025 13:52,Neither,31 to 40,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Happy,Gym workout,8,50,236,0.8002000580899707
+62,2/24/2025 13:49,2/24/2025 13:52,Dog,18 to 24,Don't know what it is,Just curious,Neutral,None of the above,Happy,Cooking,7,8,189,-0.382704376
+63,2/24/2025 13:49,2/24/2025 13:53,Dog,18 to 24,Don't know what it is,Increase knowledge of subject area,Strongly Agree,None of the above,Happy,Gym workout,7.5,7,198,0.20874784124086215
+64,2/24/2025 13:48,2/24/2025 13:53,Neither,18 to 24,Never tried it,Increase knowledge of subject area,Neutral,The Shawshank Redemption,Tired,Long walk,6,100,257,-1.565608809
+65,2/24/2025 13:49,2/24/2025 13:53,Both,18 to 24,Yes,Increase knowledge of subject area,Disagree,None of the above,Tired,Night in with Netflix,7,30,243,-0.382704376
+67,2/24/2025 13:49,2/24/2025 13:53,Both,18 to 24,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Confused,Pub with friends,8,8,213,0.8002000580899707
+68,2/24/2025 13:49,2/24/2025 13:53,Neither,18 to 24,Never tried it,Increase knowledge of subject area,Neutral,The Shawshank Redemption,Tired,Long walk,6,100,257,-1.565608809
+69,2/24/2025 13:52,2/24/2025 13:54,Both,25 to 30,Don't know what it is,Increase knowledge of subject area,Disagree,Toy Story,Happy,Pub with friends,8,7,138,0.8002000580899707
+70,2/24/2025 13:49,2/24/2025 13:54,Both,18 to 24,No,Improve job opportunities,Neutral,Toy Story,Happy,Bath and Bed,8,12,280,0.8002000580899707
+72,2/24/2025 13:49,2/24/2025 13:54,Cat,25 to 30,Don't know what it is,Increase knowledge of subject area,Neutral,None of the above,Happy,Bath and Bed,7,200,298,-0.382704376

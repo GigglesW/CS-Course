@@ -1,0 +1,18 @@
+echo -n "Enter password: "
+read -s pw
+echo
+md5=`echo -n $pw | openssl md5 | sed 's/(stdin)= //'`
+
+if [ -f ../.hashcat/hashcat.potfile ]
+then
+	if grep -q "$md5" ../.hashcat/hashcat.potfile
+	then
+	    # code if found
+	    echo "Ooh, cracked!"
+	else
+	    # code if not found
+	    echo "Not cracked, nice!"
+	fi
+else
+	echo "Not cracked, but you haven't cracked *any* yet!"
+fi

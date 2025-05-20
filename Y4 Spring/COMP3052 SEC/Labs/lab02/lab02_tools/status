@@ -1,0 +1,12 @@
+hashcount=`wc -l ./hashes/hashdb.bak | awk '{print $1;}'`
+
+if [ -f ../.hashcat/hashcat.potfile ]
+then
+	potcount=`wc -l ../.hashcat/hashcat.potfile | awk '{print $1;}'`
+	percent=$(awk "BEGIN { pc=100*${potcount}/${hashcount}; printf(\"%.2f%%\",pc) }" )	
+	remaining=$(($hashcount - $potcount))
+	echo $potcount "hashes cracked," $remaining "remaining (" $percent ")"
+
+else
+	echo "0 hashes cracked," $hashcount "remaining ( 0.0% )"
+fi
