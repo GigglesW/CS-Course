@@ -4,15 +4,15 @@
 
 ## 1. Basic Info
 
-| Title       | Content                          | Remark                      |
-| ----------- | -------------------------------- | --------------------------- |
-| Module Code | COMP2005                         |                             |
-| Name        | Introduction to Image Processing | **IIP** in short            |
-| Credits     | 10                               |                             |
-| Lecture     | 2 per week                       | 2h                          |
-| Lab         | 1 per week                       | 1h                          |
-| CW          | 50%                              | Teamwork, Random Allocation |
-| Final Exam  | 50%                              | Exam-sys                    |
+| Title       | Content                             | Remark           |
+| ----------- | ----------------------------------- | ---------------- |
+| Module Code | COMP2005                            |                  |
+| Name        | Introduction to Image Processing    | **IIP** in short |
+| Credits     | 10                                  |                  |
+| Lecture     | 2 per week                          | 2h               |
+| Lab         | 1 per week                          | 1h               |
+| CW          | Group Report on Flower Segmentation | 50%              |
+| Final Exam  | Exam-sys, UoN with UNM              | 50%              |
 
 ## 2. Lecture
 

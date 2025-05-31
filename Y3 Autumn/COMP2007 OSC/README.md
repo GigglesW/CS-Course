@@ -4,15 +4,15 @@
 
 ## 1. Basic Info
 
-| Title       | Content                         | Remark           |
-| ----------- | ------------------------------- | ---------------- |
-| Module Code | COMP2007                        |                  |
-| Name        | Operating Systems & Concurrency | **OSC** in short |
-| Credits     | 20                              |                  |
-| Lecture     | 3 per week                      | 3h               |
-| Lab         | 1 per week                      | 1h               |
-| CW          | 50%                             |                  |
-| Final Exam  | 50%                             | Exam System      |
+| Title       | Content                                               | Remark           |
+| ----------- | ----------------------------------------------------- | ---------------- |
+| Module Code | COMP2007                                              |                  |
+| Name        | Operating Systems & Concurrency                       | **OSC** in short |
+| Credits     | 20                                                    |                  |
+| Lecture     | 3 per week                                            | 3h               |
+| Lab         | 1 per week                                            | 1h               |
+| CW          | Implementation of an simple OS, 10 tasks step by step | 50%              |
+| Final Exam  | Exam Sys                                              | 50%              |
 
 ## 2. Lecture
 

@@ -4,17 +4,17 @@
 
 ## 1. Basic Info
 
-| Title         | Content               | Remark                  |
-| ------------- | --------------------- | ----------------------- |
-| Module Code   | COMP1039              |                         |
-| Name          | Programming Paradigms | **PGP** in short        |
-| Credits       | 20                    |                         |
-| Lecture       | 2 per week            | 2h + 1h                 |
-| Lab           | 1 per week            | 2h                      |
-| CW1           | 10%                   | covers Java             |
-| CW2           | 12%                   | covers Java and Haskell |
-| In-Class Test | 3%                    | covers Java and Haskell |
-| Final Exam    | 75%                   |                         |
+| Title       | Content                                             | Remark           |
+| ----------- | --------------------------------------------------- | ---------------- |
+| Module Code | COMP1039                                            |                  |
+| Name        | Programming Paradigms                               | **PGP** in short |
+| Credits     | 20                                                  |                  |
+| Lecture     | 2 per week                                          | 2h + 1h          |
+| Lab         | 1 per week                                          | 2h               |
+| CW1         | Simple Calculator using Java                        | 10%              |
+| CW2         | Chinese Chess Implementation using Java and Haskell | 12%              |
+| Quiz        | Moodle quiz on CW2                                  | 3%               |
+| Final Exam  | Written                                             | 75%              |
 
 ## 2. Lecture
 

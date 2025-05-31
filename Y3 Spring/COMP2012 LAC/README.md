@@ -4,15 +4,15 @@
 
 ## 1. Basic Info
 
-| Title       | Content                   | Remark           |
-| ----------- | ------------------------- | ---------------- |
-| Module Code | COMP2012                  |                  |
-| Name        | Languages and Computation | **LAC** in short |
-| Credits     | 10                        |                  |
-| Lecture     | 2 per week                | 2h               |
-| Tutorial    | 1 per week                | 1h               |
-| CW          | 25%                       | 4 exercises      |
-| Final Exam  | 75%                       | Written          |
+| Title       | Content                             | Remark           |
+| ----------- | ----------------------------------- | ---------------- |
+| Module Code | COMP2012                            |                  |
+| Name        | Languages and Computation           | **LAC** in short |
+| Credits     | 10                                  |                  |
+| Lecture     | 2 per week                          | 2h               |
+| Tutorial    | 1 per week                          | 1h               |
+| CW          | 4 tasks with exercises from the PDF | 25%              |
+| Final Exam  | Written                             | 75%              |
 
 ## 2. Lecture
 

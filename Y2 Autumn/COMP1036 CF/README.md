@@ -11,9 +11,9 @@
 | Credits     | 10                    |                 |
 | Lecture     | 1 per week            | 2h              |
 | Lab         | 1 per week            | 2h              |
-| CW1         | 25%                   | covers pt.1     |
-| CW2         | 25%                   | covers pt.2     |
-| Final Exam  | 50%                   |                 |
+| CW1         | Custom ALU            | 25%             |
+| CW2         | Assembly Program      | 25%             |
+| Final Exam  | Written               | 50%             |
 
 ## 2. Lecture
 

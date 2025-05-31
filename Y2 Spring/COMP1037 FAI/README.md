@@ -11,9 +11,9 @@
 | Credits     | 10                                      |                  |
 | Lecture     | 1 per week                              | 2h               |
 | Lab         | 1 per week                              | 2h               |
-| CW1         | 10%                                     | covers pt.1      |
-| CW2         | 15%                                     | covers pt.2      |
-| Final Exam  | 75%                                     |                  |
+| CW1         | Gobang Game                             | 10%              |
+| CW2         | ML Models Implementation                | 15%              |
+| Final Exam  | Written                                 | 75%              |
 
 ## 2. Lecture
 

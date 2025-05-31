@@ -11,9 +11,9 @@
 | Credits     | 10                   |                                       |
 | Lecture     | 1 per week           | 2h                                    |
 | Lab         | 1 per week           | 2h                                    |
-| CW1         | 25%                  | UML                                   |
-| CW2         | 25%                  | JUnit5                                |
-| Final Exam  | 50%                  |                                       |
+| CW1         | UML Diagram          | 25%                                   |
+| CW2         | JUnit5 Testing       | 25%                                   |
+| Final Exam  | Written              | 50%                                   |
 
 ## 2. Lecture
 

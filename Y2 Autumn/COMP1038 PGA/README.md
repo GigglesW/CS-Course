@@ -4,18 +4,18 @@
 
 ## 1. Basic Info
 
-| Title       | Content                    | Remark                                 |
-| ----------- | -------------------------- | -------------------------------------- |
-| Module Code | COMP1038                   |                                        |
-| Name        | Programming and Algorithms | **PGA** in short                       |
-| Credits     | 20                         |                                        |
-| Lecture     | 2 per week                 | 3h                                     |
-| Lab         | 1 per week                 | 2h                                     |
-| Tutorial    | 1 per week                 | 1h                                     |
-| Lab Quiz    | 5% (2% + 3%)               |                                        |
-| CW1         | 30%                        |                                        |
-| CW2         | 40%                        |                                        |
-| Final Exam  | 25%                        | 私以为是大二唯一一门考试占比合理的课程 |
+| Title       | Content                                | Remark           |
+| ----------- | -------------------------------------- | ---------------- |
+| Module Code | COMP1038                               |                  |
+| Name        | Programming and Algorithms             | **PGA** in short |
+| Credits     | 20                                     |                  |
+| Lecture     | 2 per week                             | 3h               |
+| Lab         | 1 per week                             | 2h               |
+| Tutorial    | 1 per week                             | 1h               |
+| Quiz        | In-lab, moodle quiz                    | 5% (2% + 3%)     |
+| CW1         | Contact List                           | 30%              |
+| CW2         | Airstrike Planner                      | 40%              |
+| Final Exam  | 私以为是大二唯一一门考试占比合理的课程 | 25%              |
 
 ## 2. Lecture
 

@@ -4,15 +4,15 @@
 
 ## 1. Basic Info
 
-| Title       | Content                          | Remark           |
-| ----------- | -------------------------------- | ---------------- |
-| Module Code | COMP2013                         |                  |
-| Name        | Developing Maintainable Software | **DMS** in short |
-| Credits     | 20                               |                  |
-| Lecture     | 2 per week                       | 3h               |
-| Lab         | 1 per week                       | 2h               |
-| CW          | 75%                              |                  |
-| Final Exam  | 25%                              | Exam System      |
+| Title       | Content                                      | Remark           |
+| ----------- | -------------------------------------------- | ---------------- |
+| Module Code | COMP2013                                     |                  |
+| Name        | Developing Maintainable Software             | **DMS** in short |
+| Credits     | 20                                           |                  |
+| Lecture     | 2 per week                                   | 3h               |
+| Lab         | 1 per week                                   | 2h               |
+| CW          | Snake Project using JavaFX with a Demo Video | 75%              |
+| Final Exam  | Exam System                                  | 25%              |
 
 ## 2. Lecture
 

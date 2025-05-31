@@ -4,16 +4,16 @@
 
 ## 1. Basic Info
 
-| Title       | Content                                 | Remark                                              |
-| ----------- | --------------------------------------- | --------------------------------------------------- |
-| Module Code | COMP2054                                |                                                     |
-| Name        | Algorithms Data structures & Efficiency | **ADE** in short                                    |
-| Credits     | 10                                      |                                                     |
-| Lecture     | 2 per week                              | 2h                                                  |
-| Lab         | 1 per week                              | 1h                                                  |
-| Tutorial    | 1 per week                              | 1h                                                  |
-| CW          | 25%                                     | 3 in-class tests, written, 12.5% each, 取最好的两个 |
-| Final Exam  | 75%                                     | Exam-Sys                                            |
+| Title       | Content                                             | Remark           |
+| ----------- | --------------------------------------------------- | ---------------- |
+| Module Code | COMP2054                                            |                  |
+| Name        | Algorithms Data structures & Efficiency             | **ADE** in short |
+| Credits     | 10                                                  |                  |
+| Lecture     | 2 per week                                          | 2h               |
+| Lab         | 1 per week                                          | 1h               |
+| Tutorial    | 1 per week                                          | 1h               |
+| CW          | 3 in-class tests, written, 12.5% each, 取最好的两个 | 25%              |
+| Final Exam  | Exam-Sys                                            | 75%              |
 
 ## 2. Lecture
 

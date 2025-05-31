@@ -4,17 +4,17 @@
 
 ## 1. Basic Info
 
-| Title           | Content                  | Remark                    |
-| --------------- | ------------------------ | ------------------------- |
-| Module Code     | COMP1048                 |                           |
-| Name            | Databases and Interfaces | **DBI** in short          |
-| Credits         | 10                       |                           |
-| Lecture         | 1 per week               | 2h                        |
-| Lab             | 1 per week               | 2h                        |
-| Lab Submissions | 10%                      | 1% per week               |
-| Mid-term Quiz   | 15%                      | covers Database           |
-| CW              | 25%                      | Database+Backend+Frontend |
-| Final Exam      | 50%                      |                           |
+| Title           | Content                                   | Remark           |
+| --------------- | ----------------------------------------- | ---------------- |
+| Module Code     | COMP1048                                  |                  |
+| Name            | Databases and Interfaces                  | **DBI** in short |
+| Credits         | 10                                        |                  |
+| Lecture         | 1 per week                                | 2h               |
+| Lab             | 1 per week                                | 2h               |
+| Lab Submissions | 1% per week, 10 in total                  | 10%              |
+| Mid-term Quiz   | Moodle quiz, 10 multichoice questions     | 15%              |
+| CW              | Update Database of iMusic Company Website | 25%              |
+| Final Exam      | Written                                   | 50%              |
 
 ## 2. Lecture
 

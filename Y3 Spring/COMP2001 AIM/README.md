@@ -4,16 +4,16 @@
 
 ## 1. Basic Info
 
-| Title       | Content                         | Remark                              |
-| ----------- | ------------------------------- | ----------------------------------- |
-| Module Code | COMP2001                        |                                     |
-| Name        | Artificial Intelligence Methods | **AIM** in short                    |
-| Credits     | 20                              | 英诺也有 10 学分的，Exam 100%       |
-| Lecture     | 1 per week                      | 2h                                  |
-| Lab         | 1 per week                      | 2h                                  |
-| CW1         | 20%                             | Moodle Quiz, 20 questions in 30 min |
-| CW2         | 30%                             | Coding and Exam-sys                 |
-| Final Exam  | 50%                             | Exam-sys                            |
+| Title       | Content                                               | Remark           |
+| ----------- | ----------------------------------------------------- | ---------------- |
+| Module Code | COMP2001                                              |                  |
+| Name        | Artificial Intelligence Methods                       | **AIM** in short |
+| Credits     | 20 (英诺也有 10 学分的选项，Exam 100%)                |                  |
+| Lecture     | 1 per week                                            | 2h               |
+| Lab         | 1 per week                                            | 2h               |
+| CW1         | Moodle quiz on lab knowledge, 20 questions in 30 min  | 20%              |
+| CW2         | Hyper-heuristic on a given domain, answer on exam-sys | 30%              |
+| Final Exam  | Exam-sys                                              | 50%              |
 
 ## 2. Lecture
 

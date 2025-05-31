@@ -4,15 +4,15 @@
 
 ## 1. Basic Info
 
-| Title       | Content                  | Remark                                  |
-| ----------- | ------------------------ | --------------------------------------- |
-| Module Code | COMP1047                 |                                         |
-| Name        | Systems and Architecture | 官方简称是 **SYS**，我习惯简称为 **SA** |
-| Credits     | 20                       |                                         |
-| Lecture     | 2 per week               | 2h + 1h                                 |
-| Lab         | 1 per week               | 2h                                      |
-| CW          | 50%                      | **only one CW**                         |
-| Final Exam  | 50%                      |                                         |
+| Title       | Content                                    | Remark             |
+| ----------- | ------------------------------------------ | ------------------ |
+| Module Code | COMP1047                                   |                    |
+| Name        | Systems and Architecture                   | SYS or SA in short |
+| Credits     | 20                                         |                    |
+| Lecture     | 2 per week                                 | 2h + 1h            |
+| Lab         | 1 per week                                 | 2h                 |
+| CW          | Two MIPS Program (2*20%) and One Pre (10%) | 50%                |
+| Final Exam  | Written                                    | 50%                |
 
 ## 2. Lecture
 

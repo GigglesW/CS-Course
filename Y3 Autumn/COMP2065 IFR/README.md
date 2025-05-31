@@ -4,17 +4,17 @@
 
 ## 1. Basic Info
 
-| Title       | Content                          | Remark            |
-| ----------- | -------------------------------- | ----------------- |
-| Module Code | COMP2065                         |                   |
-| Name        | Introduction to Formal Reasoning | **IFR** in short  |
-| Credits     | 10                               |                   |
-| Lecture     | 2 per week                       | 2h                |
-| Tutorial    | 1 per week                       | 1h                |
-| Lab         | 1 per week                       | 2h                |
-| CW          | 8 exercises, 12.5% in total      |                   |
-| In-lab Test | 12.5%                            | 1h, **open-book** |
-| Final Exam  | 75%                              | Written Exam      |
+| Title       | Content                          | Remark           |
+| ----------- | -------------------------------- | ---------------- |
+| Module Code | COMP2065                         |                  |
+| Name        | Introduction to Formal Reasoning | **IFR** in short |
+| Credits     | 10                               |                  |
+| Lecture     | 2 per week                       | 2h               |
+| Tutorial    | 1 per week                       | 1h               |
+| Lab         | 1 per week                       | 2h               |
+| CW          | 8 exercises, 12.5% in total      | 12.5%            |
+| In-lab Test | 1h, **open-book**                | 12.5%            |
+| Final Exam  | Written Exam                     | 75%              |
 
 ## 2. Lecture
 
