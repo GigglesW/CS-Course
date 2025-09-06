@@ -1,6 +1,6 @@
-## L005: Exception Handling
+# L005: Exception Handling
 
-##### 1. Exceptions
+### 1. Exceptions
 
 -   Compile-time error:
     -   syntax errors, e.g. `int n =  "Integer";`
@@ -12,9 +12,7 @@
     -   can be executed
     -   can be handled **by a block of code called exception handler**
 
-
-
-##### 2. Exception Hierarchy
+### 2. Exception Hierarchy
 
 -   All runtime errors are classes derived from a class called **Throwable**, i.e. `java.lang.Throwable`
 -   Two direct subclass of Throwable
@@ -22,9 +20,7 @@
     -   Exception: errors that result from program activity
         -   RuntimeException: caused by programming errors
 
-
-
-##### 3. Checked vs Unchecked Exception
+### 3. Checked vs Unchecked Exception
 
 -   Unchecked Exceptions:
     -   RuntimeException, Error and their subclasses
@@ -37,8 +33,6 @@
 -   Unchecked Exceptions are denoted in blue frame
 
 <img src="assets/Screenshot 2023-03-30 at 17.22.59.png" alt="Screenshot 2023-03-30 at 17.22.59" style="zoom:40%;" />
-
-
 
 -   Unchecked Exceptions
 
@@ -53,9 +47,7 @@
     | StringIndexOutOfBounds | Attempt to index outside the bounds of a string    |
     | ...                    | ...                                                |
 
-
-
-##### 4. Exception Handling
+### 4. Exception Handling
 
 -   `try`: used to monitor exceptions
 -   `catch`: used to catch the exceptions and define how to handle it
@@ -64,9 +56,7 @@
 
 -   `finally`: to declare any code that must be executed upon exiting from a try block
 
-
-
-##### 5. Try and Catch
+### 5. Try and Catch
 
 ```java
 try{
@@ -81,9 +71,7 @@ try{
 }
 ```
 
-
-
-##### 6. Throw an Exception
+### 6. Throw an Exception
 
 -   use **throw** keyword to throw an exception manually
 
@@ -96,9 +84,7 @@ try{
 }
 ```
 
-
-
-##### 7. Finally
+### 7. Finally
 
 -   we may want to execute some code no matter there is an exception or not
 
@@ -118,9 +104,7 @@ finally{
 System.out.println("After");
 ```
 
-
-
-##### 8. Throws
+### 8. Throws
 
 -   if a method generates an exception that does not need to be handled, then it must declare that exception
 -   `except-list` : a list of exceptions the method might throw outside of itself
@@ -142,9 +126,7 @@ public static void main(String[] args){
 }
 ```
 
-
-
-##### 9. Throws vs Exception Handling
+### 9. Throws vs Exception Handling
 
 -   when to use **throws**
     -   all checked exceptions must be thrown
@@ -152,26 +134,5 @@ public static void main(String[] args){
 -   when to use **try-catch** block
     -   to deal with unexpected error conditions
     -   if you want to handle the exception in the method where it occurs
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

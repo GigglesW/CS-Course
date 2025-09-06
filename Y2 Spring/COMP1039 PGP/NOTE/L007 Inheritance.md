@@ -1,8 +1,6 @@
-## L007: Inheritance
+# L007: Inheritance
 
-
-
-#### 1. 4 Properies of OOP
+### 1. 4 Properies of OOP
 
 -   Encapsulation
 -   Polymorphism
@@ -11,9 +9,7 @@
 -   Inheritance
 -   Abstraction
 
-
-
-#### 2. Inheritance
+### 2. Inheritance
 
 -   A class can inherit methods and data from another class
     -   the more general class is called "**superclass**"
@@ -25,9 +21,7 @@
 
 <img src="assets/Screenshot 2023-05-01 at 21.57.59.png" alt="Screenshot 2023-05-01 at 21.57.59" style="zoom:50%;" />
 
-
-
-#### 3. `Super`
+### 3. `Super`
 
 -   An example from ChatGPT
 
@@ -73,9 +67,7 @@ public class sample {
     -   用来调用superclass中和subclass同名的method
     
 
-
-
-#### 4. Objects
+### 4. Objects
 
 -   example 1:
     -   This works only when Y is a subclass of X
@@ -89,8 +81,6 @@ x2 = x;
 x2 = y;
 ```
 
-
-
 -   example 2:
     -   error
     -   since Y is a subclass of X, we cannot assign an object of X to an object of Y
@@ -103,14 +93,3 @@ xs[1] = y;
 Y y2 = xs[1];		// error
 xs[1].b = 27;
 ```
-
-
-
-
-
-
-
-
-
-
-
