@@ -1,8 +1,8 @@
-## Chapter 1: Introduction
+# Chapter 1: Introduction
 
-### 1.1 Interactive proof systems
+## 1.1 Interactive proof systems
 
-### 1.2 Lean
+## 1.2 Lean
 
 Many interactive proof systems are based on **Type Theory**, basically a functional programming language with a powerful type system.
 
